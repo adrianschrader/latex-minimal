@@ -59,6 +59,7 @@ Temporary Items
 *.aux
 *.bbl
 *.blg
+*.bak
 *.dvi
 *.fls
 *.fdb_latexmk
