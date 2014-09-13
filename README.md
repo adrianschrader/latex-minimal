@@ -9,10 +9,8 @@ A minimal project template for LaTeX including:
 
 ## New Project
 To start a new project, clone this repository and copy the files whenever you need a fresh latex project. 
-```sh
-:: You don't have to do this every time
-git clone https://github.com/adrianschrader/latex-minimal.git
 
+```sh
 mkdir project
 cp -R latex-minimal/* project/
 rm -r project/.git
